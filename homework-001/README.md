@@ -10,8 +10,17 @@ N?A
 
 ## Usage
 
+Link to Live URL: 
+
+https://alfaro-matttthew.github.io/homework-push-folder/
+
 Other students and beginner developers can use this code as a reference to see how source code should be organized and kept clean.
 
 ## Credits
 
 Matthew Alfaro
+
+## Screenshot
+
+
+
